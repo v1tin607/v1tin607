@@ -2,7 +2,7 @@
 
 **`Engenheiro de Dados`**
 
-Me chamo Victor, tenho 20 anos e sou natural de Brasília. Concluí o ensino médio no Colégio Anchieta, com alguns cursos na área da informática. Atualmente, estou cursando Engenharia de Software na Universidade Católica de Brasília. Sou apaixonado por tecnologia e compartilho um pouco do meu conhecimento aqui no Github, no meu Instagram e na minha página. 
+Me chamo Victor, tenho 20 anos e sou natural de Brasília. Concluí o ensino médio no Colégio Anchieta, com alguns cursos na área da informática. Atualmente, estou cursando Engenharia de Software na Universidade Católica de Brasília. Sou apaixonado por tecnologia e compartilho um pouco do meu conhecimento aqui no Github. 
 
 ---
 
